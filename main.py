@@ -36,7 +36,7 @@ from core import (
 
 REPO = """
 🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+- Repo: [GitHub](https://github.com/Devansh20055/VC-BOT-V-2)
 - License: AGPL-3.0-or-later
 """
 
